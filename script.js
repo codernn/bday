@@ -11,7 +11,7 @@ window.requestAnimFrame = (function(){
 
 var canvas = document.getElementById("canvas"),
 		ctx = canvas.getContext("2d"),
-    keyword = "HAPPY BIRTHDAY ANANYA",
+    keyword = "Happy Birthday Janvie",
 		imageData,
 		density =2,
 		mouse = {},
